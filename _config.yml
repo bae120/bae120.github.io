@@ -110,10 +110,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:qotjd120@email.com"
+      url: "mailto:qotjd120@email.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/bae120"
+      url: "https://github.com/bae120"
    
 
 # Site Footer
@@ -121,7 +121,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:"https://github.com/bae120"
+      url:"https://github.com/bae120"
 
 
 # Reading Files
